@@ -18,7 +18,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 TARGET_SUPPORTS_QUICK_TAP := true
-TARGET_USES_AOSP_RECOVERY := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_lmi
